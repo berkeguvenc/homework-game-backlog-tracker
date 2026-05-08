@@ -1,3 +1,104 @@
 {
-  "games": []
+  "games": [
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "platform": "PC",
+      "status": "completed",
+      "progress": 65,
+      "isFavorite": true,
+      "id": "1",
+      "createdAt": "2023-01-15T10:00:00.000Z"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "platform": "PlayStation",
+      "status": "playing",
+      "progress": 45,
+      "isFavorite": true,
+      "id": "2",
+      "createdAt": "2023-05-20T14:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Hollow Knight",
+      "platform": "Switch",
+      "status": "backlog",
+      "progress": 0,
+      "createdAt": "2023-08-10T09:15:00.000Z",
+      "isFavorite": false
+    },
+    {
+      "id": "4",
+      "title": "Cyberpunk 2077",
+      "platform": "PC",
+      "status": "playing",
+      "progress": 70,
+      "createdAt": "2024-02-01T11:45:00.000Z",
+      "isFavorite": false
+    },
+    {
+      "id": "5",
+      "title": "Super Mario Odyssey",
+      "platform": "Switch",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2022-11-05T16:20:00.000Z",
+      "isFavorite": true
+    },
+    {
+      "id": "6",
+      "title": "Genshin Impact",
+      "platform": "Mobile",
+      "status": "playing",
+      "progress": 80,
+      "createdAt": "2021-09-28T00:00:00.000Z",
+      "isFavorite": false
+    },
+    {
+      "id": "7",
+      "title": "Metal Gear Solid 3: Snake Eater",
+      "platform": "PC",
+      "status": "playing",
+      "progress": 35,
+      "createdAt": "2026-05-08T10:00:00.000Z",
+      "isFavorite": false
+    },
+    {
+      "id": "8",
+      "title": "Grand Theft Auto V",
+      "platform": "PlayStation 4",
+      "status": "backlog",
+      "progress": 0,
+      "createdAt": "2026-01-01T14:20:00.000Z",
+      "isFavorite": false
+    },
+    {
+      "id": "9",
+      "title": "Resident Evil 4 (Remake)",
+      "platform": "PC",
+      "status": "completed",
+      "progress": 100,
+      "createdAt": "2023-04-05T18:30:00.000Z",
+      "isFavorite": true
+    },
+    {
+      "id": "10",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Switch",
+      "status": "playing",
+      "progress": 85,
+      "createdAt": "2022-08-15T09:00:00.000Z",
+      "isFavorite": true
+    },
+    {
+      "title": "The Witcher 4",
+      "platform": "PC",
+      "status": "playing",
+      "progress": 65,
+      "isFavorite": true,
+      "id": "1",
+      "createdAt": "2023-01-15T10:00:00.000Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
